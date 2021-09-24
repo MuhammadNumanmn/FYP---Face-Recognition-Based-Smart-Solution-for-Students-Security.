@@ -1,5 +1,4 @@
 # FYP---Face-Recognition-Based-Smart-Solution-for-Students-Security.
-# Face-Recognition-Based-Smart-Solution-for-Student-Security---FYP
 
 # Introduction:
 
