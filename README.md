@@ -106,7 +106,7 @@ This automated system will be able to recognize student and send an alert messag
 
 Developed and Designed By: 
 
-*	Muhammad Numan - (https://www.linkedin.com/in/muhammad-numan-2426b4194/) <br />
+*	[Muhammad Numan]([http://uom.edu.pk/](https://www.linkedin.com/in/muhammad-numan-2426b4194/)) <br />
 *	Hassan Sadiq Khan <br />
 	
 
